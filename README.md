@@ -1,24 +1,62 @@
 @"
-<h1 align="center">⚡ Musya ⚡</h1>
+<h1 align="center">Hi 👋, I'm Musya</h1>
+
+<h3 align="center">
+Student • Mobile Developer Enthusiast • Future Fullstack Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;FastAPI+Learner;UI%2FUX+Enthusiast;Future+Fullstack+Developer;Always+Building+Something+Cool" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=musya43&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;FastAPI+Learner;UI%2FUX+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-```yaml
-Name: Musya
-Location: Indonesia
-Focus: Mobile & Backend Development
-Currently Learning:
-  - Flutter
-  - FastAPI
-  - Kotlin
-  - UI/UX
+- 📚 Student from Indonesia
+- 💻 Currently learning Flutter & FastAPI
+- 🎯 Interested in Mobile Apps & Backend Development
+- ⚡ Love clean UI and modern design
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,python,fastapi,mysql,git,vscode,firebase" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=musya43&show_icons=true&theme=tokyonight" />
+  
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=musya43&theme=tokyonight" />
+</p>
+
+---
+
+## 🟡 Pacman Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/musya43/musya43/blob/output/pacman-contribution-graph.svg">
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/musya43">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+✨ Keep learning, keep building ✨
+</p>
+"@ | Set-Content README.md
