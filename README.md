@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Musya</h1>
 
 <h3 align="center">
-Student • Mobile Developer Enthusiast • Future Fullstack Developer
+  Student • Mobile Developer Enthusiast • Future Fullstack Developer
 </h3>
 
 <p align="center">
@@ -32,7 +32,6 @@ Student • Mobile Developer Enthusiast • Future Fullstack Developer
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=musya43&show_icons=true&theme=tokyonight" />
-  
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=musya43&theme=tokyonight" />
 </p>
 
@@ -57,6 +56,6 @@ Student • Mobile Developer Enthusiast • Future Fullstack Developer
 ---
 
 <p align="center">
-✨ Keep learning, keep building ✨
+  ✨ Keep learning, keep building ✨
 </p>
 "@ | Set-Content README.md
