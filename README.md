@@ -38,10 +38,10 @@ Student • Mobile Developer Enthusiast • Future Fullstack Developer
 
 ---
 
-## 🟡 Pacman Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/musya43/musya43/blob/output/pacman-contribution-graph.svg">
+  <img src="https://github.com/musya43/musya43/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
