@@ -32,6 +32,26 @@ Student • Mobile Developer Enthusiast • Future Fullstack Developer
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=musya43&show_icons=true&theme=tokyonight" />
+  
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=musya43&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/musya43/musya43/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/musya43">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
 ---
